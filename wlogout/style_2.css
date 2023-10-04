@@ -25,7 +25,7 @@ button {
 }
 
 button:focus {
-    background-color: @wb-act-bg;
+    /*background-color: @wb-act-bg;*/
     background-size: 20%;
 }
 
